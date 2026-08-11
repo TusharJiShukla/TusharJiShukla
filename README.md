@@ -52,9 +52,9 @@
 ## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharJiShukla&show_icons=true&theme=radical&hide_border=true" alt="Tushar's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=TusharJiShukla&show_icons=true&theme=radical&hide_border=true" alt="Tushar's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharJiShukla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=TusharJiShukla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
