@@ -20,12 +20,12 @@ I'm constantly exploring new technologies and love building systems that are bot
 
 ## 💻 Featured Projects
 
-### [StudyPro] (Link to repo)
+### [StudyPro] (https://github.com/TusharJiShukla/StudyPro.git)
 *An e-learning platform designed for seamless course delivery.*
 - **Tech Stack:** MongoDB, Express.js, React, Node.js
 - **Highlights:** Scalable backend architecture, integrated secure payment gateways, and real-time progress tracking.
 
-### [PropertyVerse] (Link to repo)
+### [PropertyVerse] (https://github.com/TusharJiShukla/PropertyVerse.git)
 *A modern Real Estate application for buying and renting properties.*
 - **Tech Stack:** React, Node.js, MongoDB
 - **Highlights:** Advanced search filters, dynamic property listings, and responsive UI design.
