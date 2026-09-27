@@ -48,5 +48,5 @@ I'm constantly exploring new technologies and love building systems that are bot
 
 ## 📫 Connect with me
 - 📧 Email: [tusharjishukla@gmail.com](mailto:tusharjishukla@gmail.com)
-- 💼 LinkedIn: [(https://www.linkedin.com/in/tushar-shukla-373bb22a1/)]
-- 👨‍💻 LeetCode: [(https://leetcode.com/u/TSLMPUP/)]
+- 💼 LinkedIn: https://www.linkedin.com/in/tushar-shukla-373bb22a1/
+- 👨‍💻 LeetCode: https://leetcode.com/u/TSLMPUP/
